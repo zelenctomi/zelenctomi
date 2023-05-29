@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @zelenctomi
 - 👀 I’m interested in software development and creating professional websites.
-- 🌱 I’m currently learning Html, CSS, JS and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 zelenctomi/zelenctomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
