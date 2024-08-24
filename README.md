@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @zelenctomi
-- 👀 I’m interested in software development and creating professional websites.
+👋 Hi, I’m @zelenctomi
 
 <!---
 zelenctomi/zelenctomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
